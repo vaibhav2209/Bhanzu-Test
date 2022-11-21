@@ -1,0 +1,12 @@
+{
+message: "Session found",
+upcoming: true,
+number: 17,
+link: "https://",
+timestamp: 1678906785000,
+timezone: "IST",
+readable_date: "Sat, 22 Apr",
+readable_time: "01:30 PM",
+remaining_seconds: 1700000,
+scheduled_days: ["Mon", "Tue"]
+}
